@@ -1,7 +1,8 @@
 #!/bin/bash
 
 #bspc monitor -d TERM WEB CODE MISC EDIT CHAT DISCORD MUSIC
-bspc monitor -d   ﬏    ﭮ 
+bspc monitor HDMI-1 -d     ﭮ
+bspc monitor HDMI-0 -d    
 #for i in $(bspc query -D --names)
 #do
     #bsp-layout set tall $i -- --master-size 0.65 &
